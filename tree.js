@@ -3,4 +3,12 @@ class Tree {
     this.root = root
   }
 
+  dfs(){
+
+  }
+
+  bfs(){
+    
+  }
+
 }
